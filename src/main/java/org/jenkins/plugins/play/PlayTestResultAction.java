@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.gmail.ikeike443;
+package org.jenkins.plugins.play;
 
 import hudson.model.Action;
 import hudson.model.AbstractBuild;

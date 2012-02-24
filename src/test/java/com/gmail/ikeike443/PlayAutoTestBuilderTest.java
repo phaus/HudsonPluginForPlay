@@ -3,6 +3,7 @@
  */
 package com.gmail.ikeike443;
 
+import org.jenkins.plugins.play.PlayAutoTestBuilder;
 import hudson.model.FreeStyleBuild;
 import hudson.model.Result;
 import hudson.model.FreeStyleProject;

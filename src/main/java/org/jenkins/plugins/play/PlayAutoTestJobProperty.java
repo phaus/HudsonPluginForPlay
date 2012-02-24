@@ -1,4 +1,4 @@
-package com.gmail.ikeike443;
+package org.jenkins.plugins.play;
 
 import hudson.Extension;
 import hudson.model.JobProperty;

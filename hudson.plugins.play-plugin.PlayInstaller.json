@@ -1,0 +1,22 @@
+downloadService.post('hudson.plugins.play-plugin.PlayInstaller',{"list": [
+    {
+    "id": "2.0-RC2",
+    "name": "Play 2.0-RC2",
+    "url": "http://download.playframework.org/releases/play-2.0-RC2.zip"
+  },
+    {
+    "id": "1.2.4",
+    "name": "Play 1.2.4",
+    "url": "http://download.playframework.org/releases/play-1.2.4.zip"
+  },
+    {
+    "id": "1.2.3",
+    "name": "Play 1.2.3",
+    "url": "http://download.playframework.org/releases/play-1.2.3.zip"
+  },
+    {
+    "id": "1.0.3.3",
+    "name": "Play 1.0.3.3",
+    "url": "http://download.playframework.org/releases/play-1.0.3.3.zip"
+  }
+]})

@@ -1,4 +1,4 @@
-package com.gmail.ikeike443;
+package org.jenkins.plugins.play;
 
 public class PlayTestResult {
 	public String uri;
